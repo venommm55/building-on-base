@@ -13,3 +13,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 1
 - Deployed my first smart contract on Base
 - Started learning Solidity
+- gm onchain frens!
