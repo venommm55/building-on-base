@@ -19,3 +19,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Learned about storage variables in Solidity
 - Deployed SimpleStorage contract
 - Base fees are insanely cheap, love it!
+
+### Day 3
+- Explored mapping and arrays in Solidity
