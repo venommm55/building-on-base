@@ -27,3 +27,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 4
 - Learned about constructors and msg.sender
+- Deployed OwnerInfo contract
