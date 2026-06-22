@@ -42,3 +42,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 7
 - One week of building on Base
+- 7 days commits, 10+ contracts deployed
+- 
