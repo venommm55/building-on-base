@@ -44,3 +44,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - One week of building on Base
 - 7 days commits, 10+ contracts deployed
 - gm and keep building!
+
+### Day 8
+- Deployed AddressLogger contract
+- 
