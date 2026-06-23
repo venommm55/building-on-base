@@ -47,4 +47,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 8
 - Deployed AddressLogger contract
+- Learning how arrays work in Solidity
 - 
