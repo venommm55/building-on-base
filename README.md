@@ -59,3 +59,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - 10 days of consistent building
 - Deployed GmCounter contract
 - gm is not just a word, it's a lifestyle
+
+### Day 11
+- Deployed WishList contract
+- 
