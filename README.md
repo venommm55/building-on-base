@@ -63,4 +63,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 11
 - Deployed WishList contract
 - Explored dynamic arrays in Solidity
-- 
+- Base is the best L2, no debate
