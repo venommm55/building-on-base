@@ -77,5 +77,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 14 
 - Two weeks in, feeling like a real builder
+- Deployed VisitorCount contract
 - 
 
