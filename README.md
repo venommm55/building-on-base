@@ -89,3 +89,7 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Deployed YearStore contract
 - Explored uint256 and state variables
 - Building in 2026, what a time to be alive
+
+### Day 17
+- Deployed SimpleApproval contract
+- 
