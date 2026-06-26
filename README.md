@@ -93,4 +93,4 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 17
 - Deployed SimpleApproval contract
 - Learned about boolean mappings
-- 
+- Approving myself to keep building
