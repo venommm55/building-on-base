@@ -87,4 +87,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 16
 - Deployed YearStore contract
+- Explored uint256 and state variables
 - 
