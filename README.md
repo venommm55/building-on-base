@@ -98,4 +98,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 18
 - Deployed Notepad contract
 - Practiced msg.sender for user-specific storage
-- 
+- Onchain notes > regular notes
+
