@@ -105,3 +105,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Simple contract, strong message
 - HODL and build, that's the way
 
+### Day 20
+- Deployed BuildLog contract
+- 
