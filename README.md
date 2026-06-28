@@ -94,3 +94,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Deployed SimpleApproval contract
 - Learned about boolean mappings
 - Approving myself to keep building
+
+### Day 18
+- Deployed Notepad contract
