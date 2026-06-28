@@ -102,3 +102,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 19
 - Deployed Hodler contract
+- Simple contract, strong message
+- 
