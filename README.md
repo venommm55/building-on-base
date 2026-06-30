@@ -110,4 +110,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Tracking my builder journey onchain now
 - 20 days, 20+ contracts, no days off
 
-
+### Day 21
+- Deployed GoalTracker contract
+- 
