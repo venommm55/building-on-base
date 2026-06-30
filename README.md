@@ -134,3 +134,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - 25 days of building on Base
 - Deployed DeployCount contract
 - Tracking deploys onchain is kinda poetic
+
+### Day 26
+- Deployed LearningJournal contract
