@@ -142,4 +142,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 27
 - Deployed MilestoneTracker contract
+- Achieving milestones one deploy at a time
 - 
+
