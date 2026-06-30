@@ -165,3 +165,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Managing tasks onchain like a true degen
 - Task 1: keep building
 
+### Day 32
+- Deployed SimpleVote contract
+- 
