@@ -145,3 +145,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Achieving milestones one deploy at a time
 - Base Mainnet never fails me
 
+### Day 28
+- Deployed DailyStreak contract
+- 
