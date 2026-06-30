@@ -160,4 +160,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Deployed OnchainBio contract
 - My bio is now literally onchain, how cool is that
 
-
+### Day 31
+- Deployed TaskList contract
+- 
