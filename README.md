@@ -132,3 +132,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 25 
 - 25 days of building on Base
+- Deployed DeployCount contract
+- 
