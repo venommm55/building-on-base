@@ -130,4 +130,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Meta moment: committing about commits
 - Consistency is the real alpha
 
-
+### Day 25 
+- 25 days of building on Base
