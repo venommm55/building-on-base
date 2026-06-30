@@ -115,4 +115,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Setting goals onchain keeps me accountable
 - Today's goal: keep building!
 
-
+### Day 22
+- Deployed SkillTree contract
+- 
