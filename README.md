@@ -137,3 +137,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 
 ### Day 26
 - Deployed LearningJournal contract
+- Storing my learning entries onchain
+- 
