@@ -170,4 +170,6 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 - Governance starts with simple voting contracts
 - Voted: Base is the best chain
 
-
+### Day 33
+- Deployed PriceTracker contract
+- 
