@@ -163,4 +163,5 @@ Exploring smart contracts, DeFi, and the Base ecosystem.
 ### Day 31
 - Deployed TaskList contract
 - Managing tasks onchain like a true degen
-- 
+- Task 1: keep building
+
